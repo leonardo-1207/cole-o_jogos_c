@@ -1,0 +1,6 @@
+1 caui 1 vezes
+2 caui 1 vezes
+3 caui 0 vezes
+4 caui 1 vezes
+5 caui 1 vezes
+6 caui 1 vezes
